@@ -3,9 +3,9 @@ from checkmate import checkmate  # นำเข้าฟังก์ชัน ch
 def main():
     # ตัวอย่างของกระดานหมากรุก 1 และ 2
     board1 = """\
-R..Q
+....
 .K..
-..P.
+P...
 ...."""
 
     board2 = """\
